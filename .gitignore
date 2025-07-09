@@ -16,7 +16,7 @@ uploads/
 .vscode
 
 __pycache__
-*.pyc
+*.pycwip
 *.pyo
 *.pyd
 *.pdm.toml
